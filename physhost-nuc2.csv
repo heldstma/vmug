@@ -1,0 +1,2 @@
+﻿Name,FQDN,IP,MASK,gw,hostvSwitch,hostpg1,hostpg2,hostpg3,datastoreSSD1,vCenterFQDN,datacenter,vsanCluster,vdSwitch,HostRootPwd,vCenterUsername,vCenterPwd
+esx02,esx02.vmuglab.local,192.168.201.2,255.255.255.0,192.168.201.254,vSwitch0,NESTED_PORT1_ALLVLANS,NESTED_PORT2_INT_VSAN-VMOTION,NESTED_PORT3_INT_VSAN-VMOTION,INTERNAL-ESX02-SSD,vcen1.vmuglab.local,NUCLAB,VSANCL1,VDS_VSAN8,Hudson11!,administrator@vsphere.local,Pengu!nP0w3r

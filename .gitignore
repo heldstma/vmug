@@ -1,0 +1,6 @@
+#Ignore large files
+*.gz
+*.ISO
+*.exe
+*.tar
+*.log
